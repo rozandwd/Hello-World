@@ -29,6 +29,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.39617082" />
@@ -74,6 +80,9 @@
       <workItem from="1596210656675" duration="599000" />
       <workItem from="1599592699212" duration="2111000" />
       <workItem from="1599765431358" duration="642000" />
+      <workItem from="1606942009093" duration="596000" />
+      <workItem from="1607459251955" duration="2648000" />
+      <workItem from="1607527865184" duration="1472000" />
     </task>
     <task id="LOCAL-00001" summary="github.com added..">
       <created>1585233715229</created>
